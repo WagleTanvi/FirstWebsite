@@ -1,0 +1,20 @@
+h1{
+	font-size: 80px;
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+	/*margin-left: 38%;*/
+}
+#whats{
+	color: gold;
+	text-align: center;
+}
+img {
+	width: 20%;
+	border: 5px;
+	margin: auto;
+
+}
+li{
+	text-align: center;
+}
